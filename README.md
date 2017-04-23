@@ -13,3 +13,17 @@ Most probably the username will be your registered mobile number.
 above the mentioned limit, it will trigger for SMS.
 ### Running the program
 `python stock_alert.py`
+### Output
+> Checking quotes for EICHERMOT  
+> EICHERMOT:0.58  
+> Checking quotes for INDIGO  
+> INDIGO:-4.12  
+> sending SMS for INDIGO  
+> sending `INDIGO price has DOWN by 4.12 percent. to ['XXXXXXXXXX']`  
+> success  
+> SMS for INDIGO sent successfully  
+> Checking quotes for SBIN  
+> SBIN:-0.84  
+
+
+You will receive `INDIGO price has DOWN by 4.12 percent.` in your mentioned number.
