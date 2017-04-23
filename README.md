@@ -3,6 +3,7 @@ Send SMS if any of the predefined share price fluctuates above a certain customi
 ## Usage
 `git clone https://github.com/soumendrak/stock_price_change_alert.git`
 ### Changing user specific values
+Change the following values in `customizable_data.py` file.
 - `numbers`:   Mention a list of number(s) to which you want to send SMS.
 - `username`:  Username of your Way2SMS account.
 Most probably the username will be your registered mobile number.
