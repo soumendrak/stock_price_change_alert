@@ -1,3 +1,4 @@
+![image](https://travis-ci.org/soumendrak/stock_price_change_alert.svg?branch=master)
 # stock_price_change_alert
 Send SMS if any of the predefined share price fluctuates above a certain customizable level.
 ## Usage
