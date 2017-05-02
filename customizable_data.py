@@ -5,14 +5,18 @@ Author: Soumendra Kumar Sahoo
 Created on: 22 April 2017
 """
 # Way2SMS credentials
-username = "XXXXXXXXXXXX"
-password = "XXXXXXXXXXXX"
+username = "<your username>"
+password = "<your password>"
 
 # Numbers to send SMS
-number = ["XXXXXXX", "XXXXXXXX", "XXXXXXXXX"]
+number = ["<your username>"]
 
 # My Watchlist
-watchlist = ['EICHERMOT', 'INDIGO', ]
+watchlist = ['EICHERMOT', 'INDIGO', 'SBIN', 'PVR', 'HCLTECH', 'HINDZINC',
+             'MIRZAINT', 'ITC', 'TATAMOTORS', 'WIPRO', 'INFY', 'TCS',
+             'ICICIBANK', 'CIPLA', 'SOBHA', 'OIL', 'ADANIPOWER', 'JUBILANT',
+             'NATIONALUM', 'HMVL',
+             ]
 
 # Trigger percentage
 defined_limit = 5.00
