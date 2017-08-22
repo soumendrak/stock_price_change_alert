@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/soumendrak/stock_price_change_alert.png?label=ready&title=Ready)](https://waffle.io/soumendrak/stock_price_change_alert?utm_source=badge)
 ![image](https://travis-ci.org/soumendrak/stock_price_change_alert.svg?branch=master)
 # stock_price_change_alert
 Send SMS if any of the predefined share price fluctuates above a certain customizable level.
