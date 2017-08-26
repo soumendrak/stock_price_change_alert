@@ -34,7 +34,7 @@ def send_sms(message='Hi', number=number):
         send_sms_url = 'http://site24.way2sms.com/smstoss.action?'
         for each_number in number:
             send_sms_data = 'ssaction=ss&Token=' + jession_id + \
-                '&mobile=' + each_number + '&message=' + message + \
+                '&mobile=' + str(each_number) + '&message=' + message + \
                 '&msgLen=136'
             # print('send_sms_data', send_sms_data)
             opener.addheaders = [
